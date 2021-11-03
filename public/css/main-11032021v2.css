@@ -1414,4 +1414,11 @@ body:not(.rtl) .elementor-193 .elementor-element.elementor-element-30f8ddb1 .ele
  #header {
      display:  none ;
  }
+ .sc-dlfnuX{
+ 	margin-top: 10px;
+ }
+ .MuiButtonBase-root {
+    color: #000!important;
+    background-color: #ffd200!important;
+}
 /* End custom CSS */ 
